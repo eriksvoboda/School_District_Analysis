@@ -42,4 +42,6 @@ Even after replacing the ninth grade test scores, THS remains in the top five sc
 
 The number of ninth graders at THS is less than one third of the total student count. By replacing their scores with NaNs there is slight decreases in all metrics, bar Average Reading Score, at THS. The replacement does not affect THS' overall school ranking as they remain in the second position in % Overall Passing. Scores by school spending and by school type are not affected. When looking at test scores at a higher level than just single store, the ninth grade test scores at THS, do not have as large of an impact when multiple schools are grouped together. 
 
-![](/PyCitySchools_Challenge.ipynb)
+### DataFrame Summary Photos
+
+![](/Resources/District_summary_challenge.png)
