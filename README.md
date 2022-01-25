@@ -44,18 +44,18 @@ The number of ninth graders at THS is less than one third of the total student c
 
 ### DataFrame Summary Photos
 
-District Summary DF
+####District Summary DF
 ![](/Resources/District_summary_challenge.png)
 
-Per School Summary DF
-![](/Resoures/per_school_summary_df.png)
+####Per School Summary DF
+![](/Resources/per_school_summary_df.png)
 
-Top Five Schools Summary
+####Top Five Schools Summary
 ![](/Resources/top_five_schools.png)
 
-School Size Summary
+####School Size Summary
 ![](/Resources/size_summary.png)
 
-School Type Summary
+####School Type Summary
 ![](/Resources/type_summary.png)
 
