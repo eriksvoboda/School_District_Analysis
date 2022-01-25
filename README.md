@@ -61,4 +61,4 @@ The number of ninth graders at THS is less than one third of the total student c
 
 ![](/Resources/type_summary.png)
 
-![](/PyCitySchools_Challenge.ipynb)
+![](../PyCitySchools_Challenge.ipynb)
