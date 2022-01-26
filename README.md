@@ -50,3 +50,5 @@ The number of ninth graders at THS is less than one third of the total student c
 #### District Summary DF
 ![](/Resources/District_summary_challenge.png)
 
+#### THS Updated Metrics
+![](/Resources/ths_updated_metrics.png)
